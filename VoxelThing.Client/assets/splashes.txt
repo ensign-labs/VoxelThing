@@ -34,6 +34,7 @@ Now in .NET 8!
 OpenGL 3.3 core profile!
 Woo, Mastodon!
 Sponsored by the Furry Institute of Technology!
+Sponsored by Ensign Labs!
 Passes the base blooben test!
 It's very easy!
 Also try Diverge!
